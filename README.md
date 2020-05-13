@@ -1,2 +1,1 @@
-# hyjinn.github.io
-homepage
+HyJinn's homepage
